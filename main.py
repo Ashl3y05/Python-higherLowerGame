@@ -80,25 +80,3 @@ the rest of the game. This would be quite boring. By swapping choice B for A eac
 the number of followers of choice A keeps going up over the course of the game. Hope that makes sense :-)
 
 '''
-
-# Generate a random account from the game data.
-
-# Format account data into printable format.
-
-# Ask user for a guess.
-
-# Check if user is correct.
-# Get follower count.
-# If Statement
-
-# Feedback.
-
-# Score Keeping.
-
-# Make game repeatable.
-
-# Make B become the next A.
-
-# Add art.
-
-# Clear screen between rounds.
