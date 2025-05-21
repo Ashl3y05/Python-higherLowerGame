@@ -6,9 +6,9 @@
 2. Make a folder somewhere on your pc
 3. Right-click inside the folder and open in terminal
 4. On the terminal type the following:
-     1. git clone https://github.com/Ashl3y05/Python-higherLowerGame
-     2. cd .\Python-higherLowerGame\
-     3. python main.py
+     - git clone https://github.com/Ashl3y05/Python-higherLowerGame
+     - cd .\Python-higherLowerGame\
+     - python main.py
 
 # What I learned
 - More in-depth function usage
